@@ -10,14 +10,14 @@ I also create content and share knowledge on **software development, SaaS, autom
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/dimitresouza12">
+    <img src="https://img.shields.io/badge/GitHub-DIMITRESOUZA12-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/dimitresouzaa">
     <img src="https://img.shields.io/badge/Instagram-@DIMITRESOUZAA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@dimitre.ia">
-    <img src="https://img.shields.io/badge/TikTok-@DIMITRE.IA-000000?style=for-the-badge&logo=tiktok" />
+  <a href="https://www.tiktok.com/@dimitre.ai">
+    <img src="https://img.shields.io/badge/TikTok-@DIMITRE.AI-000000?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://linkedin.com/in/dimitre-souza">
     <img src="https://img.shields.io/badge/LinkedIn-DIMITRE--SOUZA-0077B5?style=for-the-badge&logo=linkedin" />
@@ -69,8 +69,8 @@ I also create content and share knowledge on **software development, SaaS, autom
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dimitresouza12&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitresouza12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -84,4 +84,3 @@ I also create content and share knowledge on **software development, SaaS, autom
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
