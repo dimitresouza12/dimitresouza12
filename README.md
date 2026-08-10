@@ -69,8 +69,8 @@ I also create content and share knowledge on **software development, SaaS, autom
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dimitresouza12&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitresouza12&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=dimitresouza12&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=dimitresouza12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
