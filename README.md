@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dimitre Souza
-🚀 **Senior Software Engineer | JavaScript, Python & Full-Stack Specialist**  
+🚀 **Software Engineering Student | Founder @ Otimiza Aí**  
 🇧🇷 Brazil  
-I build **scalable SaaS platforms**, **high-performance backend systems**, and **mobile solutions**.  
+I'm the founder of **Otimiza Aí**, a startup where we build **landing pages**, **custom systems**, and **automations** for businesses.  
 I'm deeply focused on **system architecture, automation, clean code, and business-driven solutions**.  
 I also create content and share knowledge on **software development, SaaS, automation, and tech entrepreneurship**.
 
@@ -28,7 +28,7 @@ I also create content and share knowledge on **software development, SaaS, autom
 
 ## 🧠 What I do
 
-- 🏗️ SaaS & High-scale backend systems
+- 🏗️ SaaS & backend systems
 - 🔄 Workflow automation & integrations (n8n, APIs)
 - ⚡ Performance optimization & scalability
 - 🧩 System architecture & clean code
@@ -36,7 +36,6 @@ I also create content and share knowledge on **software development, SaaS, autom
 - 💳 Payments, subscriptions & business logic
 - 📱 Mobile development (SwiftUI/iOS)
 - 🤖 AI integrations & automation
-- 🎓 Teaching & mentoring developers
 
 ---
 
