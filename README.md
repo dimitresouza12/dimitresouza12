@@ -76,12 +76,6 @@ I also create content and share knowledge on **software development, SaaS, autom
 
 ---
 
-<!-- metrics:start -->
-<img src="./github-metrics.svg" alt="Métricas do GitHub" />
-<!-- metrics:end -->
-
----
-
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
